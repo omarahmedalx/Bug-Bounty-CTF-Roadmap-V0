@@ -175,6 +175,7 @@ Please don't hesitate to contribute to this repo!
      - https://www.youtube.com/@S7ee7/videos
      - https://www.youtube.com/@Limbo0x01
      - https://www.youtube.com/watch?v=RTP3wGflIOw  https://www.youtube.com/watch?v=MrHd2JJD8R0  ( just this 2 video's :)
+     - https://www.youtube.com/@Almufattesh
  - **English**
      - https://www.youtube.com/@davidbombal
      - https://www.youtube.com/@NahamSec
@@ -189,6 +190,12 @@ Please don't hesitate to contribute to this repo!
 	 - Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 	 - Live Overflow :https://www.youtube.com/c/LiveOverflow
      - https://www.youtube.com/@lostsec_ftw
+     - Critical Thinking Podcast: https://www.youtube.com/@criticalthinkingpodcast
+     - Hackers stores : https://www.youtube.com/@lume-channel
+     - https://www.youtube.com/@cybernews
+     - https://www.youtube.com/@fern-tv
+     - https://www.youtube.com/watch?v=BCV4dbaLKdQ
+     - Hacking : https://www.youtube.com/@iamLucid
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_vac8qxvac8qxvac8" src="https://github.com/user-attachments/assets/2d767055-3434-47ad-9d9a-94414711d475" />
 
