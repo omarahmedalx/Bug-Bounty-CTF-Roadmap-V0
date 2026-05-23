@@ -149,6 +149,7 @@ Please don't hesitate to contribute to this repo!
 	 - Medium: https://medium.com/analytics-vidhya/a-beginners-guide-to-cyber-security-3d0f7891c93a
 	 - Infosec Writeups: https://infosecwriteups.com/?gi=3149891cc73d
 	 - Hackerone Hacktivity: https://hackerone.com/hacktivity
+     -Hackerone Reports : https://github.com/reddelexc/hackerone-reports?fbclid=IwdGRzaAR-HPZjbGNrBH4c4GV4dG4DYWVtAjExAHNydGMGYXBwX2lkDDM1MDY4NTUzMTcyOAABHqdZyfmOYWqRxgGfSnDfu3vQLxWK4H8ZKxS94I5Y_uTSmNAzviv4MyGDtpCd_aem_JkSQ_wKJRvmD4PmWQy7RNw&sfnsn=scwspwa  
 	 - Google VRP Writeups: https://github.com/xdavidhu/awesome-google-vrp-writeups
  - **Blogs and Articles**
 	 - Hacking Articles: https://www.hackingarticles.in/
